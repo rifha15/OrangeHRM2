@@ -31,7 +31,7 @@ public class DashBoardPageFactory {
 		
 		
 	}
-	public void clickPin() {
+	public void clickPinNumber() {
 		sh.waitForElement(PimTitle).click();
 	}
 	
